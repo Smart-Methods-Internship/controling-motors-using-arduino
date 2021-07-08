@@ -5,7 +5,7 @@ In this project we control 2 DC motors using an Arduino and L293D IC
 In Tinkercad
 
 1-Get a breadboard and an Arduino Uno
-2-Connect the Vin pin in the Arduino with the positive pin in the breadboard
+2-Connect the 5V pin in the Arduino with the positive pin in the breadboard
 3-Connect the GND pin in the Arduino with the ground pin in the breadboard
 4-Get L923D IC and connect it in the breadboard
 5-Get 2 motors and connect the positive pin of the first motor with output 1 in the IC and the negative pin with output 2 in the IC
